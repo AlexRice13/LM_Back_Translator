@@ -1,5 +1,4 @@
-### 中文版README.md
-```markdown
+
 # 基于大语言模型的翻译-回译对比工具 🔄
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
@@ -87,7 +86,7 @@ ollama list
 - 📦 请确认本地Ollama实例中模型可用
 - ⚠️ 根据模型上下文窗口调整`split_token`参数
 - 💾 处理大文件前请先保存现有工作
-```
+
 
 # LM_Back_Translator Toolkit 🔄
 
