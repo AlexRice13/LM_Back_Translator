@@ -89,17 +89,3 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) for deta
 - ⚠️ Adjust `split_token` based on your model's context window
 - 💾 Save your work before processing large files
 ```
-
-This README includes:
-1. Clear installation and usage instructions
-2. Configuration details specific to your implementation
-3. API requirements and model compatibility notes
-4. Real-time processing feedback details
-5. Customizable parameters section
-
-Would you like me to add any of the following?
-- Screenshots of the GUI interface
-- Detailed API documentation
-- Troubleshooting section
-- Performance benchmarks
-- Example translation workflows
